@@ -23,18 +23,6 @@ function Nav() {
                         <span class="font-bold sr-only sm:not-sr-only">{t("nav.home")}</span>
                     </Button>
                 </Link>
-                <Link href="/apps">
-                    <Button active={true}>
-                        <AppsIcon />
-                        <span class="font-bold sr-only sm:not-sr-only">{t("nav.apps")}</span>
-                    </Button>
-                </Link>
-                <Link href="/games">
-                    <Button active={true}>
-                        <GamesIcon />
-                        <span class="font-bold sr-only sm:not-sr-only"><Obfuscated>{t("nav.games")}</Obfuscated></span>
-                    </Button>
-                </Link>
                 <Link href="/settings/search">
                     <Button active={true}>
                         <SettingsIcon />
