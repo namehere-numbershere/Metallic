@@ -3,10 +3,7 @@ import { useTranslation } from "react-i18next";
 import { Button } from "../interface/button";
 import { Logo } from '../assets/logo';
 import { HomeIcon } from "../assets/homeIcon";
-import { AppsIcon } from "../assets/appsIcon";
-import { GamesIcon } from "../assets/gamesIcon";
 import { SettingsIcon } from "../assets/settingsIcon";
-import { Obfuscated } from '../util/obfuscate';
 
 function Nav() {
     const { t } = useTranslation();
