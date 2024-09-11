@@ -8,7 +8,7 @@ COPY package*.json /app/
 
 RUN npm install
 
-RUN npm run build
+RUN pnpm run build
 
 EXPOSE 8080
 
