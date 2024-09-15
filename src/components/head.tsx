@@ -17,9 +17,9 @@ function Head({ pageTitle }: HeadTypes) {
             window.document.title = title;
         } else {
             if (pageTitle) {
-                window.document.title = pageTitle + " | Metallic";
+                window.document.title = pageTitle + " | NH";
             } else {
-                window.document.title = "Metallic";
+                window.document.title = "NH";
             }
         }
     }, [title, locale])
