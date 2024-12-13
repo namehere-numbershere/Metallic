@@ -193,7 +193,8 @@ function Home() {
 					<Obfuscated>NHMath</Obfuscated>
 				</h1>
 				<p class="text-center">
-				<Obfuscated> e </Obfuscated>
+				<Obfuscated> Bookmark this website for alternative links to this unblocker! </Obfuscated>
+				<a href="https://namehere-numbershere.github.io/UnblockerStatusUpdate.github.io/"> NHMathProblems Link Directory </a>
 				</p>
 				</div>
 				)}
