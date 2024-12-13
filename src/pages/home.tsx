@@ -191,7 +191,7 @@ function Home() {
 				<h1 class="title text-4xl sm:text-6xl font-bold text-center mt-32 mb-8 sm:mb-16 font-title">
 					<Obfuscated>NHMath</Obfuscated>
 					</br />
-			<span> Bookmark this page for more links to unblockers: </span> <a href="https://namehere-numbershere.github.io/UnblockerStatusUpdate.github.io/"> </a> </span>
+			<span> Bookmark this page for more links to unblockers: </span> <a href="https://namehere-numbershere.github.io/UnblockerStatusUpdate.github.io/"> </a>
 				</h1>
 			
 			)}
