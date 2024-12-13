@@ -192,7 +192,7 @@ function Home() {
 				<h1 class="title text-4xl sm:text-6xl font-bold text-center mt-32 mb-8 sm:mb-16 font-title">
 					<Obfuscated>NHMath</Obfuscated>
 				</h1>
-				<p>
+				<p class="text-center">
 				<Obfuscated> e </Obfuscated>
 				</p>
 				</div>
